@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Confession and execution of the five prisoners that suffered at Tyburn on Wednesday the 23rd of January 1677/8 at which time were executed William King, Henry Claiton, and William Hare, [brace] for several robberies on the highway, Robert Motley, for burglary and felony, and Benj. Smith [brace] for treason, clipping the kings coin : with their behaviour in Newgate, and the substance of two sermons preached to them the Sunday before their death.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80317</idno>
+            <idno type="STC">Wing C5747B</idno>
+            <idno type="STC">ESTC R205231</idno>
+            <idno type="EEBO-CITATION">38875587</idno>
+            <idno type="OCLC">ocm 38875587</idno>
+            <idno type="VID">152251</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80317)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152251)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2287:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Confession and execution of the five prisoners that suffered at Tyburn on Wednesday the 23rd of January 1677/8 at which time were executed William King, Henry Claiton, and William Hare, [brace] for several robberies on the highway, Robert Motley, for burglary and felony, and Benj. Smith [brace] for treason, clipping the kings coin : with their behaviour in Newgate, and the substance of two sermons preached to them the Sunday before their death.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for D.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677 [i.e. 1678]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"This may be printed. Ro. L'Estrange."</note>
+                  <note>Imperfect: faded, and with print show-through.</note>
+                  <note>Reproduction of original in: Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Executions and executioners --  England.</term>
+               <term>Thieves --  England.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152251:1" rendition="simple:additions"/>
+            <p>THE CONFESSION AND EXECUTION Of the Five Priſoners that ſuffered at TYBURN On <hi>Wedneſday</hi> the 23d of <hi>January</hi> 1677/8.</p>
+            <p>At which time were Executed
+<list>
+                  <item>
+                     <hi>William King, Henry Claiton,</hi> and <hi>William Hare,</hi> For ſeveral Robberies on the Highway. </item>
+                  <item>
+                     <hi>Robert Motly,</hi>—For Burglary and Felony. AND</item>
+                  <item>
+                     <hi>Benj. Smith,</hi> For Treaſon, Clipping the Kings Coin.</item>
+               </list>
+            </p>
+            <p>WITH Their Behaviour in <hi>Newgate,</hi> and the ſubſtance of two Sermons Preached to them the <hi>Sunday</hi> before their Death.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>This may be Printed.</p>
+                        <closer>
+                           <signed>Ro. L'Eſtrange.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London<g ref="char:punc">▪</g>
+               </hi> Printed for <hi>D. M.</hi> 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:152251:2"/>
+            <pb n="4" facs="tcp:152251:2" rendition="simple:additions"/>
+            <head>The Confeſsion and Execution of the Priſoners that ſuffered at <hi>Tyburn</hi> on Wedneſday the <hi>23d</hi> of <hi>Jan.</hi> 1677/8.</head>
+            <p>'TWas obſerv'd by the Court this laſt Seſ<g ref="char:EOLhyphen"/>ſions, that it has rarely been known ſo many ſhould be convicted of Crimes deſerving Death out of ſo ſmall a Kalendar, or when the number of Priſoners has been ſo few; there being no leſs than Thirteen perſons (ſeven men and ſix women) that received ſentence of Death for their r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſpective Capital Offences. But of the women, two after Judgement pleaded their <hi>Bellies</hi> in reſpit of Execution, and by a Jury of Matrons were found <hi>Quick with Childe.</hi> Another condemned for murdering her <hi>Baſtard-Infant,</hi> died in Goal the next day after Sen<g ref="char:EOLhyphen"/>tence; It being ſuppoſed that by going abroad immediately after her <hi>Delivery</hi> upon the unna<g ref="char:EOLhyphen"/>tural deſigne of expoſing her Childe (as ſhe did) in the ſtreets, ſhe might catch <hi>Cold<g ref="char:punc">▪</g>
+               </hi> which, to<g ref="char:EOLhyphen"/>gether with the dejection of her Spirits, might haſten her End, and prevent an <hi>Ignominious</hi> by an <hi>untimely</hi> death.</p>
+            <pb n="4" facs="tcp:152251:3"/>
+            <p>Others, by the mercy of Authority, were Reprieved in hopes of future Amendment of their Lives; but Five this day were carried to the fatal place of Execution, of whom two were the Highway-men taken at <hi>Whetſtone,</hi> and the reſt before-mentioned in the Title-page. That is to ſay,</p>
+            <p>
+               <hi>William King</hi> and <hi>Henry Claiton</hi> for a rob<g ref="char:EOLhyphen"/>bery on the Road done in <hi>Berk</hi>-ſhire; but the things being taken about them, render'd them liable to be tried for the Felony in <hi>Middleſex,</hi> and appearing to the Court to be a Robbery in another County, excluded them from Clergy. The Goods they took were only two Silver Powder-Boxes, <hi>&amp;c.</hi> of no great value; but it was well known, they had been notoriouſly concerned in ſuch Villanies, near twenty Rob<g ref="char:EOLhyphen"/>beries lying upon them, and violent ſuſpitions of ſome Murders.</p>
+            <p>The next was <hi>William Hare,</hi> for a like Rob<g ref="char:EOLhyphen"/>bery on the High-way, only he followed the miſchievous Trade on Foot; and indeed theſe generally are more cruel and dangerous than the other: He was Indicted the Seſ<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ons before for a Crime of the ſame nature, but got off.</p>
+            <p>
+               <hi>Robert Motly</hi> had been often in <hi>Newgate,</hi> and Mercy ſhewed him; Once tranſported on a Pardon, but returned, before the time in the Condition thereof ſpecified was expired, where<g ref="char:EOLhyphen"/>by he forfeited his Life; yet not content, takes the old courſe, and being now taken in a Burg<g ref="char:EOLhyphen"/>lary, was cut off as an incorrigible Offender.</p>
+            <pb n="5" facs="tcp:152251:3" rendition="simple:additions"/>
+            <p>
+               <hi>Benjamin Smith</hi> had for ſome time been a perſon of ill Life, and of late had taken upon him to be a Solicitor for naughty people; he was now Convicted for Clipping of Money.</p>
+            <p>To fit them for this great and terrible Change, great pains and care was taken by ſeveral Mini<g ref="char:EOLhyphen"/>ſters, and particularly by that ſober Divine whoſe office it more peculiarly is; who on the <hi>Sunday</hi> before their Execution, preach'd two very Pathetical and Chriſtian Sermons to them. To go about to repeat them here, were to wrong that Gentleman whoſe affectionate and power<g ref="char:EOLhyphen"/>ful Eloquence cannot, without loſing much of its force and beauty, be expreſs'd in any words but his own: But the purport and ſubſtance was to this effect.</p>
+            <p>Taking for his Text in the forenoon, that ſuitable Portion of Scripture, <hi>Pſalm 90 verſ. 11. Who knoweth the power of thine anger? even according to thy fear, ſo is thy wrath.</hi> From thence he ſhewed, That all unregenerate men, and in their natural ſtate, lay under the wrath of God, and obnoxious to all the dreadful Curſes pronounced in the Holy Scriptures, both in re<g ref="char:EOLhyphen"/>lation to their bodies and ſouls: Which Divine wrath, though in it ſelf ſo terrible and weighty, that it is as well Inexpreſſible as Intollerable, he endeavour'd to ſhadow forth by certain apt Compariſons and Arguments <hi>à minore ad majus.</hi> If the wrath of a King be as the roaring of a Lion, which makes all tremble that hear it, who ſhall be able to withſtand the diſpleaſure of the
+<pb n="6" facs="tcp:152251:4"/> King of kings? If God's withdrawing the Light of his Countenance, and viſiting his Saints with Chaſtizements in Love, be ſo inſupportable to their ſpirits, with what Horrours and Aſtoniſh<g ref="char:EOLhyphen"/>ments muſt the Wicked be confounded, when he makes bare his Arm to take Vengeance upon them for their long continued and oft repeated Tranſgreſſions? He further told them, That the Extremity of this Wrath, was when God, for a puniſhment of ſin, gave perſons up to ſin without Remorſe: That hardneſs of heart with blindneſs of mind, was the greateſt Plague could be i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cted upon poor creatures. Since not onely their days, but their hours, now were numbred, being but a few minutes on this ſide Eternal Deſtruction, he advis'd them ſeriouſly and ſuddenly, with all their might, to ſet upon this great and moſt important buſineſs of <hi>wor<g ref="char:EOLhyphen"/>king out their ſalvation with fear and trembling:</hi> not to flatter themſelves with deluſive hopes of longer Life, nor murder their Souls by preten<g ref="char:EOLhyphen"/>ding to die with a <hi>Roman</hi> Courage: For alas, who could contend with Omnipotence? or what Reſolution can abide Everlaſting Burnings? <hi>David</hi> as valiant as any, yet under a ſence of his ſins, thought it no effeminacy of ſpirit <hi>to water his couch with his tears.</hi> The true Penitent is the onely H<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ro, who ſubdues Principalities and Powers, and yet lays him low in the preſence of his offended M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ker; whoſe breath abaſeth the mightieſt Conquerours, and ſweepeth away the Proud and Obſtinate with ſudden and Ever<g ref="char:EOLhyphen"/>laſting
+<pb n="7" facs="tcp:152251:4" rendition="simple:additions"/> Deſtruction: Therefore he p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſron<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tely charged them, as they would avoid the dreadful wrath of God, the fierceneſs of which he had in ſome part repreſented to them, That they would every one, with broken hearts and bended knees, confeſs their ſins and give Glory to God; and loathing themſelves and their paſt actions, flie to the Throne of Grace and the Blood of the Lamb, for Mercy and Pardon. For having firſt ſearch'd their ulcerated hearts, like a prudent Soul-Phy<g ref="char:EOLhyphen"/>ſician, he in the afternoon began to pour in the Balm of <hi>Gilead<g ref="char:punc">▪</g>
+               </hi> quitting Mount <hi>Sinai</hi> for Mount <hi>Sion;</hi> and leading them from the terrors of the Law to the glad tidings of the Goſpel, even to the Bleſſed Jeſus, <hi>who deli<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers us from wrath to come<g ref="char:punc">▪</g>
+               </hi> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aying his infinite Love and Mercy to penitent ſinners, and preſſing them forthwith to <hi>kiſs the Son</hi> with a kiſs of Homage and Obedience, of Love and Loyalty, <hi>leſt his wrath be kindled,</hi> and they periſh everlaſtingly <hi>&amp;c.</hi>
+            </p>
+            <p>During the Sermons, and other acts of Devo<g ref="char:EOLhyphen"/>tion, the Condemned Priſoners in general be<g ref="char:EOLhyphen"/>haved themſelves with extraordinary Sobriety and Attention, the Tears oftentimes in abun<g ref="char:EOLhyphen"/>dance guſhing forth. Nor was their Deport<g ref="char:EOLhyphen"/>ment leſs becoming afterwards, deſiring the Prayers earneſtly of ſuch as came to viſit them. The Highway-men confeſſed ſeveral Robberies by them committed, but refuſed to diſcover any of their Companions. And the moſt reſo<g ref="char:EOLhyphen"/>lute was an old Malefactor in Burglaries, Felo<g ref="char:EOLhyphen"/>nies,
+<pb n="8" facs="tcp:152251:5"/> 
+               <hi>&amp;c.</hi> who before at the Bar, when he re<g ref="char:EOLhyphen"/>ceived Sentence, being told by the Court, that he muſt not expect any Pardon, ſurlily anſwe<g ref="char:EOLhyphen"/>red, <hi>Why, I do not ask you for any, do I?</hi> This perſon appeared the moſt unconcerned, and ſtupidly inſenſible of his condition, refu<g ref="char:EOLhyphen"/>ſing to anſwer any queſtions relating to his ſpiritual State, or enter into any ſerious Con<g ref="char:EOLhyphen"/>verſation. The reſt were much more mollified, and at the place of Execution acknowledg'd, that they died juſtly; begging pardon firſt of God, and next of all perſons whom they had wronged: Profeſſing that Sloath, Pride, Luſt, and Ill Company had been the ſole occaſioners of their ignominious end. And therefore de<g ref="char:EOLhyphen"/>fired all to take Warning and Example by them: And to live honeſtly, induſtriouſly and upright<g ref="char:EOLhyphen"/>ly in the ſeveral lawful Trades or Profeſſions, wherein Providence hath placed them: The ne<g ref="char:EOLhyphen"/>glecting and abandoning of which, for a looſe extravagant courſe of Life, they declared was the original Cauſe of their Ruine.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
